@@ -26,4 +26,4 @@ SPREADSHEET_API_PRIVATE_KEY_LOCATION=./09876.json
 To test it, i created a private channel for myself and the bot where I could experiment with it.
 I run it locally on my computer `python app.py` and then trigger it from slack.com.
 
-To launch it I will attach it to a free instance of a [BackgroundWorker on render.com](https://docs.render.com/background-workers)
+To launch it I will attach it to a free instance of a [Web Service on render.com](https://docs.render.com/web-services)
