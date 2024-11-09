@@ -3,12 +3,13 @@ This is the slack bot i built to gamify fitness and working out etc.
 
 ## requirements
 Slack app tutorial: https://api.slack.com/docs/apps
+
 Make sure you have the proper things enabled. Here are some tutorials I followed:
 - https://api.slack.com/tutorials/tracks/responding-to-app-mentions
 - https://api.slack.com/interactivity/slash-commands
 
 ```
-pip install pygsheets dotenv slack_bolt aiohttp slack_sdk
+pip install pygsheets python-dotenv slack_bolt aiohttp slack_sdk
 ```
 
 It is linked pretty tightly to a spreadsheet, and I'll upload an example later.
